@@ -6,10 +6,10 @@
 
 В GitHub: Settings → Pages → Build and deployment → Deploy from a branch → main → /(root) → Save.
 
-После успешной публикации ожидаемые адреса для репозитория `dolepp/vidio-gmail-pages`:
+После успешной публикации ожидаемые адреса для репозитория `dolepp/lainos_mail`:
 
-- Главная: https://dolepp.github.io/vidio-gmail-pages/
-- Политика: https://dolepp.github.io/vidio-gmail-pages/privacy.html
+- Главная: https://dolepp.github.io/lainos_mail/
+- Политика: https://dolepp.github.io/lainos_mail/privacy.html
 - Authorised domains: `dolepp.github.io` (без протокола и пути).
 
 В Google Cloud → Google Auth Platform → Branding укажите эти адреса только после проверки их доступности. Имя приложения должно соответствовать названию на сайте: «видио».
