@@ -1,0 +1,6 @@
+.env
+.env.*
+*secret*
+*token*
+credentials.json
+__pycache__/
